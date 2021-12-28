@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #333232;
+  height: 30px;
+  font-size: 30px;
+  -webkit-text-decoration: dotted;
+          text-decoration: dotted;
+  font-weight: 600;
+  color: black;
+  padding: 30px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}/*# sourceMappingURL=App.css.map */
